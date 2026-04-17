@@ -1,0 +1,217 @@
+month,month_date,month_num,record_type,category,total_posts,avg_views,avg_likes,sentiment_score,festival_boost,is_trending,total_revenue
+January 2024,2024-01-01,1,social_media,fashion,697.0,74724.0,10295.0,0.766,1.8,True,
+January 2024,2024-01-01,1,social_media,food,613.0,59804.0,8026.0,0.594,1.6,True,
+January 2024,2024-01-01,1,social_media,technology,302.0,50698.0,4679.0,0.325,1.0,False,
+January 2024,2024-01-01,1,social_media,fitness,309.0,32071.0,4313.0,0.375,1.0,False,
+January 2024,2024-01-01,1,social_media,education,245.0,33056.0,3022.0,0.207,1.0,False,
+January 2024,2024-01-01,1,social_media,entertainment,399.0,69628.0,9245.0,0.316,1.0,False,
+January 2024,2024-01-01,1,social_media,travel,231.0,40448.0,5393.0,0.217,1.0,False,
+January 2024,2024-01-01,1,social_media,finance,199.0,30856.0,2886.0,0.437,1.0,False,
+January 2024,2024-01-01,1,retail_sales,grocery,,,,,1.0,False,919446.0
+January 2024,2024-01-01,1,retail_sales,fashion,,,,,1.8,True,1056177.0
+January 2024,2024-01-01,1,retail_sales,electronics,,,,,1.0,False,457551.0
+January 2024,2024-01-01,1,retail_sales,food & beverage,,,,,1.0,False,393936.0
+January 2024,2024-01-01,1,retail_sales,beauty & wellness,,,,,1.0,False,340709.0
+January 2024,2024-01-01,1,retail_sales,pharmacy,,,,,1.0,False,274240.0
+January 2024,2024-01-01,1,retail_sales,books & stationery,,,,,1.0,False,162305.0
+January 2024,2024-01-01,1,retail_sales,sports & fitness,,,,,1.0,False,187217.0
+January 2024,2024-01-01,1,retail_sales,home & furniture,,,,,1.0,False,228678.0
+January 2024,2024-01-01,1,retail_sales,jewellery,,,,,1.5,True,478342.0
+February 2024,2024-02-01,2,social_media,fashion,442.0,47438.0,6535.0,0.434,1.0,False,
+February 2024,2024-02-01,2,social_media,food,442.0,43074.0,5781.0,0.439,1.0,False,
+February 2024,2024-02-01,2,social_media,technology,306.0,51447.0,4749.0,0.108,1.0,False,
+February 2024,2024-02-01,2,social_media,fitness,320.0,33241.0,4470.0,0.314,1.0,False,
+February 2024,2024-02-01,2,social_media,education,295.0,39775.0,3636.0,0.407,1.0,False,
+February 2024,2024-02-01,2,social_media,entertainment,361.0,63051.0,8372.0,0.295,1.0,False,
+February 2024,2024-02-01,2,social_media,travel,212.0,37110.0,4948.0,0.172,1.0,False,
+February 2024,2024-02-01,2,social_media,finance,224.0,34831.0,3258.0,0.373,1.0,False,
+February 2024,2024-02-01,2,retail_sales,grocery,,,,,1.0,False,765541.0
+February 2024,2024-02-01,2,retail_sales,fashion,,,,,1.0,False,610926.0
+February 2024,2024-02-01,2,retail_sales,electronics,,,,,1.0,False,487207.0
+February 2024,2024-02-01,2,retail_sales,food & beverage,,,,,1.0,False,430087.0
+February 2024,2024-02-01,2,retail_sales,beauty & wellness,,,,,1.0,False,309047.0
+February 2024,2024-02-01,2,retail_sales,pharmacy,,,,,1.0,False,287946.0
+February 2024,2024-02-01,2,retail_sales,books & stationery,,,,,1.0,False,159471.0
+February 2024,2024-02-01,2,retail_sales,sports & fitness,,,,,1.0,False,167830.0
+February 2024,2024-02-01,2,retail_sales,home & furniture,,,,,1.0,False,228757.0
+February 2024,2024-02-01,2,retail_sales,jewellery,,,,,1.0,False,365679.0
+March 2024,2024-03-01,3,social_media,fashion,384.0,41217.0,5678.0,0.174,1.0,False,
+March 2024,2024-03-01,3,social_media,food,397.0,38709.0,5195.0,0.36,1.0,False,
+March 2024,2024-03-01,3,social_media,technology,328.0,55087.0,5085.0,0.204,1.0,False,
+March 2024,2024-03-01,3,social_media,fitness,279.0,28979.0,3897.0,0.304,1.0,False,
+March 2024,2024-03-01,3,social_media,education,257.0,34672.0,3170.0,0.139,1.0,False,
+March 2024,2024-03-01,3,social_media,entertainment,341.0,59512.0,7902.0,0.278,1.0,False,
+March 2024,2024-03-01,3,social_media,travel,225.0,39499.0,5266.0,0.249,1.0,False,
+March 2024,2024-03-01,3,social_media,finance,224.0,34747.0,3250.0,0.371,1.0,False,
+March 2024,2024-03-01,3,retail_sales,grocery,,,,,1.0,False,886890.0
+March 2024,2024-03-01,3,retail_sales,fashion,,,,,1.0,False,625842.0
+March 2024,2024-03-01,3,retail_sales,electronics,,,,,1.0,False,435863.0
+March 2024,2024-03-01,3,retail_sales,food & beverage,,,,,1.0,False,350916.0
+March 2024,2024-03-01,3,retail_sales,beauty & wellness,,,,,1.0,False,344507.0
+March 2024,2024-03-01,3,retail_sales,pharmacy,,,,,1.0,False,246957.0
+March 2024,2024-03-01,3,retail_sales,books & stationery,,,,,1.0,False,140837.0
+March 2024,2024-03-01,3,retail_sales,sports & fitness,,,,,1.0,False,185397.0
+March 2024,2024-03-01,3,retail_sales,home & furniture,,,,,1.0,False,220203.0
+March 2024,2024-03-01,3,retail_sales,jewellery,,,,,1.0,False,353404.0
+April 2024,2024-04-01,4,social_media,fashion,566.0,60655.0,8356.0,0.711,1.5,True,
+April 2024,2024-04-01,4,social_media,food,533.0,51975.0,6975.0,0.658,1.4,False,
+April 2024,2024-04-01,4,social_media,technology,342.0,57473.0,5305.0,0.262,1.0,False,
+April 2024,2024-04-01,4,social_media,fitness,276.0,28623.0,3849.0,0.292,1.0,False,
+April 2024,2024-04-01,4,social_media,education,273.0,36756.0,3360.0,0.245,1.0,False,
+April 2024,2024-04-01,4,social_media,entertainment,353.0,61624.0,8182.0,0.449,1.0,False,
+April 2024,2024-04-01,4,social_media,travel,242.0,42391.0,5652.0,0.318,1.0,False,
+April 2024,2024-04-01,4,social_media,finance,181.0,28115.0,2630.0,0.224,1.0,False,
+April 2024,2024-04-01,4,retail_sales,grocery,,,,,1.0,False,916878.0
+April 2024,2024-04-01,4,retail_sales,fashion,,,,,1.5,True,845123.0
+April 2024,2024-04-01,4,retail_sales,electronics,,,,,1.0,False,422689.0
+April 2024,2024-04-01,4,retail_sales,food & beverage,,,,,1.0,False,396747.0
+April 2024,2024-04-01,4,retail_sales,beauty & wellness,,,,,1.0,False,295778.0
+April 2024,2024-04-01,4,retail_sales,pharmacy,,,,,1.0,False,265160.0
+April 2024,2024-04-01,4,retail_sales,books & stationery,,,,,1.0,False,135578.0
+April 2024,2024-04-01,4,retail_sales,sports & fitness,,,,,1.0,False,193838.0
+April 2024,2024-04-01,4,retail_sales,home & furniture,,,,,1.0,False,239862.0
+April 2024,2024-04-01,4,retail_sales,jewellery,,,,,1.3,False,476033.0
+May 2024,2024-05-01,5,social_media,fashion,432.0,46292.0,6378.0,0.297,1.0,False,
+May 2024,2024-05-01,5,social_media,food,444.0,43267.0,5806.0,0.256,1.0,False,
+May 2024,2024-05-01,5,social_media,technology,273.0,45857.0,4233.0,0.171,1.0,False,
+May 2024,2024-05-01,5,social_media,fitness,300.0,31071.0,4178.0,0.368,1.0,False,
+May 2024,2024-05-01,5,social_media,education,258.0,34738.0,3176.0,0.232,1.0,False,
+May 2024,2024-05-01,5,social_media,entertainment,312.0,54533.0,7241.0,0.145,1.0,False,
+May 2024,2024-05-01,5,social_media,travel,270.0,47343.0,6312.0,0.273,1.0,False,
+May 2024,2024-05-01,5,social_media,finance,217.0,33753.0,3157.0,0.185,1.0,False,
+May 2024,2024-05-01,5,retail_sales,grocery,,,,,1.0,False,914078.0
+May 2024,2024-05-01,5,retail_sales,fashion,,,,,1.0,False,657034.0
+May 2024,2024-05-01,5,retail_sales,electronics,,,,,1.0,False,452000.0
+May 2024,2024-05-01,5,retail_sales,food & beverage,,,,,1.0,False,410586.0
+May 2024,2024-05-01,5,retail_sales,beauty & wellness,,,,,1.0,False,287951.0
+May 2024,2024-05-01,5,retail_sales,pharmacy,,,,,1.0,False,278686.0
+May 2024,2024-05-01,5,retail_sales,books & stationery,,,,,1.0,False,149776.0
+May 2024,2024-05-01,5,retail_sales,sports & fitness,,,,,1.0,False,171248.0
+May 2024,2024-05-01,5,retail_sales,home & furniture,,,,,1.0,False,236991.0
+May 2024,2024-05-01,5,retail_sales,jewellery,,,,,1.0,False,318850.0
+June 2024,2024-06-01,6,social_media,fashion,479.0,51412.0,7083.0,0.175,1.0,False,
+June 2024,2024-06-01,6,social_media,food,413.0,40328.0,5412.0,0.28,1.0,False,
+June 2024,2024-06-01,6,social_media,technology,345.0,57975.0,5351.0,0.198,1.0,False,
+June 2024,2024-06-01,6,social_media,fitness,247.0,25626.0,3446.0,0.117,1.0,False,
+June 2024,2024-06-01,6,social_media,education,223.0,30129.0,2754.0,0.396,1.0,False,
+June 2024,2024-06-01,6,social_media,entertainment,370.0,64559.0,8572.0,0.144,1.0,False,
+June 2024,2024-06-01,6,social_media,travel,269.0,47183.0,6291.0,0.322,1.0,False,
+June 2024,2024-06-01,6,social_media,finance,179.0,27836.0,2604.0,0.228,1.0,False,
+June 2024,2024-06-01,6,retail_sales,grocery,,,,,1.0,False,809021.0
+June 2024,2024-06-01,6,retail_sales,fashion,,,,,1.0,False,584523.0
+June 2024,2024-06-01,6,retail_sales,electronics,,,,,1.0,False,501319.0
+June 2024,2024-06-01,6,retail_sales,food & beverage,,,,,1.0,False,421866.0
+June 2024,2024-06-01,6,retail_sales,beauty & wellness,,,,,1.0,False,296182.0
+June 2024,2024-06-01,6,retail_sales,pharmacy,,,,,1.0,False,285607.0
+June 2024,2024-06-01,6,retail_sales,books & stationery,,,,,1.0,False,142253.0
+June 2024,2024-06-01,6,retail_sales,sports & fitness,,,,,1.0,False,175345.0
+June 2024,2024-06-01,6,retail_sales,home & furniture,,,,,1.0,False,227595.0
+June 2024,2024-06-01,6,retail_sales,jewellery,,,,,1.0,False,305023.0
+July 2024,2024-07-01,7,social_media,fashion,386.0,41422.0,5707.0,0.41,1.0,False,
+July 2024,2024-07-01,7,social_media,food,420.0,40948.0,5495.0,0.271,1.0,False,
+July 2024,2024-07-01,7,social_media,technology,351.0,59020.0,5448.0,0.149,1.0,False,
+July 2024,2024-07-01,7,social_media,fitness,292.0,30305.0,4075.0,0.113,1.0,False,
+July 2024,2024-07-01,7,social_media,education,296.0,39847.0,3643.0,0.387,1.0,False,
+July 2024,2024-07-01,7,social_media,entertainment,298.0,52056.0,6912.0,0.202,1.0,False,
+July 2024,2024-07-01,7,social_media,travel,257.0,45043.0,6005.0,0.406,1.0,False,
+July 2024,2024-07-01,7,social_media,finance,189.0,29423.0,2752.0,0.444,1.0,False,
+July 2024,2024-07-01,7,retail_sales,grocery,,,,,1.0,False,929876.0
+July 2024,2024-07-01,7,retail_sales,fashion,,,,,1.0,False,613704.0
+July 2024,2024-07-01,7,retail_sales,electronics,,,,,1.0,False,443557.0
+July 2024,2024-07-01,7,retail_sales,food & beverage,,,,,1.0,False,426421.0
+July 2024,2024-07-01,7,retail_sales,beauty & wellness,,,,,1.0,False,305056.0
+July 2024,2024-07-01,7,retail_sales,pharmacy,,,,,1.0,False,308430.0
+July 2024,2024-07-01,7,retail_sales,books & stationery,,,,,1.0,False,161521.0
+July 2024,2024-07-01,7,retail_sales,sports & fitness,,,,,1.0,False,160686.0
+July 2024,2024-07-01,7,retail_sales,home & furniture,,,,,1.0,False,197546.0
+July 2024,2024-07-01,7,retail_sales,jewellery,,,,,1.0,False,355431.0
+August 2024,2024-08-01,8,social_media,fashion,401.0,42968.0,5920.0,0.206,1.0,False,
+August 2024,2024-08-01,8,social_media,food,340.0,33213.0,4457.0,0.373,1.0,False,
+August 2024,2024-08-01,8,social_media,technology,284.0,47675.0,4400.0,0.199,1.0,False,
+August 2024,2024-08-01,8,social_media,fitness,250.0,25960.0,3491.0,0.394,1.0,False,
+August 2024,2024-08-01,8,social_media,education,290.0,39052.0,3570.0,0.184,1.0,False,
+August 2024,2024-08-01,8,social_media,entertainment,351.0,61227.0,8130.0,0.279,1.0,False,
+August 2024,2024-08-01,8,social_media,travel,272.0,47720.0,6362.0,0.446,1.0,False,
+August 2024,2024-08-01,8,social_media,finance,170.0,26371.0,2466.0,0.148,1.0,False,
+August 2024,2024-08-01,8,retail_sales,grocery,,,,,1.0,False,929783.0
+August 2024,2024-08-01,8,retail_sales,fashion,,,,,1.0,False,661516.0
+August 2024,2024-08-01,8,retail_sales,electronics,,,,,1.0,False,477654.0
+August 2024,2024-08-01,8,retail_sales,food & beverage,,,,,1.0,False,363892.0
+August 2024,2024-08-01,8,retail_sales,beauty & wellness,,,,,1.0,False,300870.0
+August 2024,2024-08-01,8,retail_sales,pharmacy,,,,,1.0,False,290963.0
+August 2024,2024-08-01,8,retail_sales,books & stationery,,,,,1.0,False,147080.0
+August 2024,2024-08-01,8,retail_sales,sports & fitness,,,,,1.0,False,163265.0
+August 2024,2024-08-01,8,retail_sales,home & furniture,,,,,1.0,False,240287.0
+August 2024,2024-08-01,8,retail_sales,jewellery,,,,,1.0,False,319871.0
+September 2024,2024-09-01,9,social_media,fashion,398.0,42644.0,5875.0,0.395,1.0,False,
+September 2024,2024-09-01,9,social_media,food,425.0,41467.0,5565.0,0.109,1.0,False,
+September 2024,2024-09-01,9,social_media,technology,280.0,47068.0,4344.0,0.283,1.0,False,
+September 2024,2024-09-01,9,social_media,fitness,290.0,30071.0,4044.0,0.25,1.0,False,
+September 2024,2024-09-01,9,social_media,education,248.0,33506.0,3063.0,0.263,1.0,False,
+September 2024,2024-09-01,9,social_media,entertainment,319.0,55661.0,7391.0,0.369,1.0,False,
+September 2024,2024-09-01,9,social_media,travel,249.0,43680.0,5824.0,0.367,1.0,False,
+September 2024,2024-09-01,9,social_media,finance,206.0,31989.0,2992.0,0.105,1.0,False,
+September 2024,2024-09-01,9,retail_sales,grocery,,,,,1.0,False,886686.0
+September 2024,2024-09-01,9,retail_sales,fashion,,,,,1.0,False,584339.0
+September 2024,2024-09-01,9,retail_sales,electronics,,,,,1.0,False,489424.0
+September 2024,2024-09-01,9,retail_sales,food & beverage,,,,,1.0,False,376451.0
+September 2024,2024-09-01,9,retail_sales,beauty & wellness,,,,,1.0,False,285694.0
+September 2024,2024-09-01,9,retail_sales,pharmacy,,,,,1.0,False,297717.0
+September 2024,2024-09-01,9,retail_sales,books & stationery,,,,,1.0,False,135274.0
+September 2024,2024-09-01,9,retail_sales,sports & fitness,,,,,1.0,False,169711.0
+September 2024,2024-09-01,9,retail_sales,home & furniture,,,,,1.0,False,236987.0
+September 2024,2024-09-01,9,retail_sales,jewellery,,,,,1.0,False,342546.0
+October 2024,2024-10-01,10,social_media,fashion,771.0,82620.0,11383.0,0.692,1.6,True,
+October 2024,2024-10-01,10,social_media,food,439.0,42793.0,5743.0,0.309,1.0,False,
+October 2024,2024-10-01,10,social_media,technology,282.0,47401.0,4375.0,0.357,1.0,False,
+October 2024,2024-10-01,10,social_media,fitness,298.0,30947.0,4161.0,0.245,1.0,False,
+October 2024,2024-10-01,10,social_media,education,270.0,36423.0,3330.0,0.12,1.0,False,
+October 2024,2024-10-01,10,social_media,entertainment,351.0,61175.0,8123.0,0.247,1.0,False,
+October 2024,2024-10-01,10,social_media,travel,235.0,41188.0,5491.0,0.35,1.0,False,
+October 2024,2024-10-01,10,social_media,finance,222.0,34465.0,3224.0,0.192,1.0,False,
+October 2024,2024-10-01,10,retail_sales,grocery,,,,,1.0,False,788122.0
+October 2024,2024-10-01,10,retail_sales,fashion,,,,,1.6,True,1081535.0
+October 2024,2024-10-01,10,retail_sales,electronics,,,,,1.0,False,460505.0
+October 2024,2024-10-01,10,retail_sales,food & beverage,,,,,1.0,False,362109.0
+October 2024,2024-10-01,10,retail_sales,beauty & wellness,,,,,1.4,False,412587.0
+October 2024,2024-10-01,10,retail_sales,pharmacy,,,,,1.0,False,305869.0
+October 2024,2024-10-01,10,retail_sales,books & stationery,,,,,1.0,False,158822.0
+October 2024,2024-10-01,10,retail_sales,sports & fitness,,,,,1.0,False,179543.0
+October 2024,2024-10-01,10,retail_sales,home & furniture,,,,,1.0,False,213675.0
+October 2024,2024-10-01,10,retail_sales,jewellery,,,,,1.7,True,547329.0
+November 2024,2024-11-01,11,social_media,fashion,809.0,86748.0,11951.0,0.65,1.7,True,
+November 2024,2024-11-01,11,social_media,food,409.0,39887.0,5353.0,0.279,1.0,False,
+November 2024,2024-11-01,11,social_media,technology,267.0,44896.0,4144.0,0.439,1.0,False,
+November 2024,2024-11-01,11,social_media,fitness,294.0,30538.0,4106.0,0.192,1.0,False,
+November 2024,2024-11-01,11,social_media,education,266.0,35857.0,3278.0,0.254,1.0,False,
+November 2024,2024-11-01,11,social_media,entertainment,382.0,66603.0,8844.0,0.382,1.0,False,
+November 2024,2024-11-01,11,social_media,travel,275.0,48217.0,6429.0,0.185,1.0,False,
+November 2024,2024-11-01,11,social_media,finance,174.0,27077.0,2533.0,0.402,1.0,False,
+November 2024,2024-11-01,11,retail_sales,grocery,,,,,1.0,False,840509.0
+November 2024,2024-11-01,11,retail_sales,fashion,,,,,1.7,True,990549.0
+November 2024,2024-11-01,11,retail_sales,electronics,,,,,1.9,True,932911.0
+November 2024,2024-11-01,11,retail_sales,food & beverage,,,,,1.0,False,406300.0
+November 2024,2024-11-01,11,retail_sales,beauty & wellness,,,,,1.0,False,334251.0
+November 2024,2024-11-01,11,retail_sales,pharmacy,,,,,1.0,False,304172.0
+November 2024,2024-11-01,11,retail_sales,books & stationery,,,,,1.0,False,155047.0
+November 2024,2024-11-01,11,retail_sales,sports & fitness,,,,,1.0,False,189540.0
+November 2024,2024-11-01,11,retail_sales,home & furniture,,,,,1.0,False,211713.0
+November 2024,2024-11-01,11,retail_sales,jewellery,,,,,1.8,True,621731.0
+December 2024,2024-12-01,12,social_media,fashion,764.0,81911.0,11285.0,0.761,1.6,True,
+December 2024,2024-12-01,12,social_media,food,606.0,59138.0,7937.0,0.807,1.7,True,
+December 2024,2024-12-01,12,social_media,technology,354.0,59396.0,5482.0,0.241,1.0,False,
+December 2024,2024-12-01,12,social_media,fitness,244.0,25308.0,3403.0,0.368,1.0,False,
+December 2024,2024-12-01,12,social_media,education,296.0,39885.0,3646.0,0.225,1.0,False,
+December 2024,2024-12-01,12,social_media,entertainment,509.0,88758.0,11785.0,0.784,1.5,True,
+December 2024,2024-12-01,12,social_media,travel,464.0,81297.0,10839.0,0.838,1.8,True,
+December 2024,2024-12-01,12,social_media,finance,180.0,27917.0,2611.0,0.341,1.0,False,
+December 2024,2024-12-01,12,retail_sales,grocery,,,,,1.0,False,892360.0
+December 2024,2024-12-01,12,retail_sales,fashion,,,,,1.6,True,1038991.0
+December 2024,2024-12-01,12,retail_sales,electronics,,,,,1.0,False,453513.0
+December 2024,2024-12-01,12,retail_sales,food & beverage,,,,,1.0,False,343281.0
+December 2024,2024-12-01,12,retail_sales,beauty & wellness,,,,,1.0,False,342106.0
+December 2024,2024-12-01,12,retail_sales,pharmacy,,,,,1.0,False,272835.0
+December 2024,2024-12-01,12,retail_sales,books & stationery,,,,,1.0,False,153444.0
+December 2024,2024-12-01,12,retail_sales,sports & fitness,,,,,1.0,False,176136.0
+December 2024,2024-12-01,12,retail_sales,home & furniture,,,,,1.0,False,215250.0
+December 2024,2024-12-01,12,retail_sales,jewellery,,,,,1.0,False,327506.0

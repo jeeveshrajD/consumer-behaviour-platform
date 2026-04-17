@@ -1,0 +1,201 @@
+store_id,store_name,store_category,store_scale,locality,avg_monthly_sales_inr,avg_monthly_profit_inr,footfall_per_day,peak_hours,primary_customer_age,has_online_presence,rating,years_in_business,profit_margin_pct
+STR0001,Ink Mart,books & stationery,small,Velachery,105897,27829,21,afternoon (2pm-6pm),18-24,False,3.8,7,30.0
+STR0002,Glow Store,beauty & wellness,small,T Nagar,32436,12289,36,afternoon (11am-3pm),18-24,False,4.1,8,40.0
+STR0003,Apollo Store,pharmacy,mall-anchor,OMR,7101215,1126462,1783,morning (9am-12pm),50+,True,4.5,19,18.0
+STR0004,Fashion Shop,fashion,small,Tambaram,65671,23347,55,evening (5pm-9pm),18-24,True,4.0,1,35.0
+STR0005,Raja Shop,grocery,small,OMR,101202,7253,39,morning (8am-11am),35-50,False,3.8,1,8.0
+STR0006,Fashion Zone,fashion,medium,Tambaram,715370,271466,296,evening (5pm-9pm),18-24,False,4.2,5,35.0
+STR0007,Living World,home & furniture,small,Perambur,120540,23657,72,weekend afternoons,35-50,True,4.1,11,22.0
+STR0008,Smart Hub,electronics,small,T Nagar,45449,5864,118,afternoon (12pm-4pm),25-34,False,3.8,14,12.0
+STR0009,Tech Store,electronics,small,T Nagar,114664,13759,68,afternoon (12pm-4pm),25-34,False,3.0,10,12.0
+STR0010,Circuit Shop,electronics,medium,T Nagar,501012,67789,161,afternoon (12pm-4pm),25-34,False,4.4,3,12.0
+STR0011,Sri Gallery,grocery,small,Porur,23967,1870,109,morning (8am-11am),35-50,True,4.2,6,8.0
+STR0012,Pages Gallery,books & stationery,small,Adyar,122992,40888,98,afternoon (2pm-6pm),18-24,True,3.3,8,30.0
+STR0013,Style Shop,fashion,medium,Porur,443901,161441,127,evening (5pm-9pm),18-24,True,3.7,19,35.0
+STR0014,Sri Gallery,grocery,small,Velachery,143608,10456,43,morning (8am-11am),35-50,False,4.0,2,8.0
+STR0015,Pages Point,books & stationery,medium,Perambur,572736,172086,341,afternoon (2pm-6pm),18-24,False,4.3,11,30.0
+STR0016,Wardrobe Centre,fashion,small,T Nagar,21911,8609,25,evening (5pm-9pm),18-24,False,4.4,10,35.0
+STR0017,Spice Centre,food & beverage,small,OMR,81130,20529,81,evening (6pm-10pm),18-24,False,3.8,6,25.0
+STR0018,Care World,pharmacy,small,Anna Nagar,62154,9895,104,morning (9am-12pm),50+,False,4.2,13,18.0
+STR0019,Health Shop,pharmacy,small,Velachery,105552,17774,111,morning (9am-12pm),50+,False,3.8,10,18.0
+STR0020,Curry World,food & beverage,mall-anchor,T Nagar,3928136,1000083,2528,evening (6pm-10pm),18-24,True,4.9,2,25.0
+STR0021,Power Zone,sports & fitness,medium,Perambur,226222,57018,389,morning (7am-10am),25-34,True,4.3,19,28.0
+STR0022,Ethnic Centre,fashion,large,T Nagar,2798939,938127,695,evening (5pm-9pm),18-24,True,4.9,32,35.0
+STR0023,Glow World,beauty & wellness,medium,Nungambakkam,379299,134530,186,afternoon (11am-3pm),18-24,True,3.7,18,40.0
+STR0024,Style Point,fashion,large,Perambur,2650382,826154,972,evening (5pm-9pm),18-24,True,4.2,8,35.0
+STR0025,Curry Zone,food & beverage,small,T Nagar,56122,15624,55,evening (6pm-10pm),18-24,False,4.0,6,25.0
+STR0026,Glow World,beauty & wellness,small,Velachery,67546,30825,49,afternoon (11am-3pm),18-24,False,4.1,11,40.0
+STR0027,Comfort Centre,home & furniture,small,Tambaram,73350,17012,102,weekend afternoons,35-50,False,3.6,11,22.0
+STR0028,Fashion Shop,fashion,mall-anchor,OMR,5021775,1527094,3115,evening (5pm-9pm),18-24,True,4.6,13,35.0
+STR0029,Power Hub,sports & fitness,medium,Nungambakkam,698982,217804,359,morning (7am-10am),25-34,False,4.6,20,28.0
+STR0030,Aura Point,beauty & wellness,medium,T Nagar,749987,286771,376,afternoon (11am-3pm),18-24,True,3.7,10,40.0
+STR0031,Murugan Palace,grocery,mall-anchor,Anna Nagar,8054563,680229,1754,morning (8am-11am),35-50,True,4.4,5,8.0
+STR0032,Glow Centre,beauty & wellness,large,Velachery,2986590,1049652,1005,afternoon (11am-3pm),18-24,True,4.9,15,40.0
+STR0033,Wisdom Point,books & stationery,small,OMR,126087,35624,62,afternoon (2pm-6pm),18-24,False,3.2,3,30.0
+STR0034,Trend Gallery,fashion,small,Porur,78944,26247,20,evening (5pm-9pm),18-24,True,3.0,14,35.0
+STR0035,Style Palace,fashion,medium,Tambaram,729842,225332,337,evening (5pm-9pm),18-24,False,4.4,7,35.0
+STR0036,Ethnic Shop,fashion,large,Adyar,1622616,615512,416,evening (5pm-9pm),18-24,True,4.0,12,35.0
+STR0037,Style Shop,fashion,medium,Perambur,299202,94126,326,evening (5pm-9pm),18-24,True,4.6,24,35.0
+STR0038,Spice Gallery,food & beverage,small,Chromepet,45859,11401,55,evening (6pm-10pm),18-24,False,4.2,2,25.0
+STR0039,Saravana Palace,grocery,small,Tambaram,143640,11814,99,morning (8am-11am),35-50,False,4.3,4,8.0
+STR0040,Spice Palace,food & beverage,small,OMR,31738,7110,92,evening (6pm-10pm),18-24,True,3.5,6,25.0
+STR0041,Trend Store,fashion,small,Tambaram,30769,10094,66,evening (5pm-9pm),18-24,True,4.2,13,35.0
+STR0042,Active Point,sports & fitness,large,Chromepet,2757568,716129,1083,morning (7am-10am),25-34,True,4.0,17,28.0
+STR0043,Gem Centre,jewellery,small,T Nagar,55190,7397,83,weekend evenings,35-50,False,3.9,5,15.0
+STR0044,Gem Point,jewellery,small,Tambaram,81867,12053,69,weekend evenings,35-50,True,3.4,13,15.0
+STR0045,Dosa Store,food & beverage,medium,Chromepet,614691,143380,231,evening (6pm-10pm),18-24,True,4.1,4,25.0
+STR0046,Dosa Palace,food & beverage,small,OMR,141906,40649,77,evening (6pm-10pm),18-24,True,4.3,4,25.0
+STR0047,Power Point,electronics,small,Adyar,21102,2562,26,afternoon (12pm-4pm),25-34,False,4.1,6,12.0
+STR0048,Power Shop,sports & fitness,medium,Perambur,632063,155748,299,morning (7am-10am),25-34,True,4.4,7,28.0
+STR0049,Dosa Hub,food & beverage,large,Porur,1658116,413102,611,evening (6pm-10pm),18-24,True,4.9,31,25.0
+STR0050,Tech Point,electronics,small,Adyar,26933,3326,21,afternoon (12pm-4pm),25-34,True,4.4,6,12.0
+STR0051,Shine Shop,beauty & wellness,large,Porur,2478639,975059,914,afternoon (11am-3pm),18-24,True,4.3,14,40.0
+STR0052,Aura Mart,beauty & wellness,large,Chromepet,1493916,592488,1064,afternoon (11am-3pm),18-24,True,4.6,17,40.0
+STR0053,Ethnic Zone,fashion,medium,Chromepet,764557,259529,191,evening (5pm-9pm),18-24,True,4.4,7,35.0
+STR0054,Smart Point,electronics,small,Anna Nagar,106644,11770,92,afternoon (12pm-4pm),25-34,False,3.8,14,12.0
+STR0055,Sri Shop,grocery,large,OMR,2769099,212767,747,morning (8am-11am),35-50,True,4.5,11,8.0
+STR0056,Glow Mart,beauty & wellness,large,Velachery,2871967,1123181,864,afternoon (11am-3pm),18-24,True,4.4,26,40.0
+STR0057,Ethnic Shop,fashion,small,Perambur,99604,36041,69,evening (5pm-9pm),18-24,False,4.2,2,35.0
+STR0058,Power World,electronics,large,Velachery,1432704,164887,800,afternoon (12pm-4pm),25-34,True,4.9,9,12.0
+STR0059,Murugan Centre,grocery,small,Velachery,22073,2020,106,morning (8am-11am),35-50,False,3.1,5,8.0
+STR0060,Nest Store,home & furniture,small,Chromepet,40455,9582,27,weekend afternoons,35-50,False,3.9,9,22.0
+STR0061,Fashion Hub,fashion,small,Porur,77071,26173,79,evening (5pm-9pm),18-24,False,3.8,5,35.0
+STR0062,Flavour Point,food & beverage,small,Porur,59816,15960,90,evening (6pm-10pm),18-24,False,4.1,2,25.0
+STR0063,Style Zone,fashion,medium,Tambaram,238119,94328,268,evening (5pm-9pm),18-24,True,3.6,9,35.0
+STR0064,Curry Shop,food & beverage,medium,T Nagar,701684,159594,155,evening (6pm-10pm),18-24,False,3.6,12,25.0
+STR0065,Curry Hub,food & beverage,medium,Tambaram,216926,47917,137,evening (6pm-10pm),18-24,False,3.6,23,25.0
+STR0066,Digital Store,electronics,mall-anchor,OMR,3885872,535253,2190,afternoon (12pm-4pm),25-34,True,4.9,9,12.0
+STR0067,Beauty Store,beauty & wellness,small,Tambaram,47209,19532,28,afternoon (11am-3pm),18-24,True,4.3,13,40.0
+STR0068,Circuit Hub,electronics,mall-anchor,Chromepet,8157332,855901,2489,afternoon (12pm-4pm),25-34,True,4.2,5,12.0
+STR0069,Annapoorna Point,grocery,small,Chromepet,89145,6981,38,morning (8am-11am),35-50,False,3.2,11,8.0
+STR0070,Style Mart,fashion,small,Chromepet,103114,32672,118,evening (5pm-9pm),18-24,True,3.0,11,35.0
+STR0071,Flavour Palace,food & beverage,medium,T Nagar,764175,196931,266,evening (6pm-10pm),18-24,False,4.2,9,25.0
+STR0072,Raja Palace,grocery,small,T Nagar,137598,10781,100,morning (8am-11am),35-50,False,3.3,7,8.0
+STR0073,Sri Store,grocery,small,Perambur,145364,13174,22,morning (8am-11am),35-50,False,3.3,3,8.0
+STR0074,Saravana Store,grocery,small,Nungambakkam,38639,3194,42,morning (8am-11am),35-50,False,3.3,2,8.0
+STR0075,Sport Store,sports & fitness,small,Anna Nagar,90062,23414,34,morning (7am-10am),25-34,False,3.0,11,28.0
+STR0076,Annapoorna Shop,grocery,large,Tambaram,1379855,124863,773,morning (8am-11am),35-50,False,4.6,23,8.0
+STR0077,Taste Mart,food & beverage,small,Porur,145807,32017,85,evening (6pm-10pm),18-24,False,3.8,10,25.0
+STR0078,Power Mart,electronics,small,Nungambakkam,83644,8817,47,afternoon (12pm-4pm),25-34,False,3.8,13,12.0
+STR0079,Living Gallery,home & furniture,mall-anchor,Adyar,3079549,718399,1645,weekend afternoons,35-50,True,4.4,15,22.0
+STR0080,Taste Shop,food & beverage,small,Nungambakkam,53853,11718,111,evening (6pm-10pm),18-24,True,4.1,4,25.0
+STR0081,Tech Centre,electronics,small,Nungambakkam,58689,7262,105,afternoon (12pm-4pm),25-34,False,4.3,1,12.0
+STR0082,Space Store,home & furniture,small,Nungambakkam,55080,10346,114,weekend afternoons,35-50,False,3.6,3,22.0
+STR0083,Curry Gallery,food & beverage,medium,Chromepet,745123,192913,309,evening (6pm-10pm),18-24,True,4.7,15,25.0
+STR0084,Apollo Hub,pharmacy,small,Tambaram,100014,16545,30,morning (9am-12pm),50+,False,3.7,14,18.0
+STR0085,Murugan Store,grocery,small,Nungambakkam,87814,6273,110,morning (8am-11am),35-50,True,3.8,12,8.0
+STR0086,Trend Store,fashion,small,Porur,115168,45632,32,evening (5pm-9pm),18-24,True,3.0,3,35.0
+STR0087,Smart Shop,electronics,small,OMR,111277,15176,47,afternoon (12pm-4pm),25-34,True,3.4,5,12.0
+STR0088,Jewels Gallery,jewellery,small,Anna Nagar,61157,8940,104,weekend evenings,35-50,True,3.6,6,15.0
+STR0089,Murugan Gallery,grocery,medium,Perambur,287773,20875,291,morning (8am-11am),35-50,True,4.2,13,8.0
+STR0090,Sri Shop,grocery,small,Porur,66134,5730,57,morning (8am-11am),35-50,False,3.7,8,8.0
+STR0091,Sri Palace,grocery,medium,Velachery,615895,49584,115,morning (8am-11am),35-50,True,4.0,15,8.0
+STR0092,Life Gallery,pharmacy,medium,Tambaram,228032,36593,299,morning (9am-12pm),50+,True,3.7,17,18.0
+STR0093,Living Shop,home & furniture,small,Tambaram,33229,6319,106,weekend afternoons,35-50,False,3.4,3,22.0
+STR0094,Silver Point,jewellery,small,OMR,132320,18912,24,weekend evenings,35-50,False,4.3,1,15.0
+STR0095,Saravana Point,grocery,small,Chromepet,138367,12412,104,morning (8am-11am),35-50,False,3.1,14,8.0
+STR0096,Glow Shop,beauty & wellness,medium,Porur,471817,189578,262,afternoon (11am-3pm),18-24,True,4.2,10,40.0
+STR0097,Aura Mart,beauty & wellness,small,Anna Nagar,65160,27438,50,afternoon (11am-3pm),18-24,True,3.6,13,40.0
+STR0098,Murugan Zone,grocery,medium,Tambaram,351617,25189,367,morning (8am-11am),35-50,True,3.8,14,8.0
+STR0099,Digital Store,electronics,large,OMR,1384563,181096,792,afternoon (12pm-4pm),25-34,True,4.8,6,12.0
+STR0100,Raja Centre,grocery,small,Porur,139107,9985,81,morning (8am-11am),35-50,False,3.4,4,8.0
+STR0101,Glow Shop,beauty & wellness,small,Chromepet,113100,43235,23,afternoon (11am-3pm),18-24,False,4.0,1,40.0
+STR0102,Sri World,grocery,small,Nungambakkam,32371,2472,24,morning (8am-11am),35-50,False,4.1,9,8.0
+STR0103,Silver Point,jewellery,small,Adyar,149818,24962,39,weekend evenings,35-50,False,4.4,10,15.0
+STR0104,Beauty Zone,beauty & wellness,small,T Nagar,119543,53300,61,afternoon (11am-3pm),18-24,False,3.0,7,40.0
+STR0105,Wardrobe Centre,fashion,small,Porur,86407,31024,109,evening (5pm-9pm),18-24,True,4.1,13,35.0
+STR0106,Scholar Hub,books & stationery,medium,Nungambakkam,691160,193666,128,afternoon (2pm-6pm),18-24,True,4.0,15,30.0
+STR0107,Raja Store,grocery,large,Porur,2237653,192844,1070,morning (8am-11am),35-50,True,4.8,8,8.0
+STR0108,Beauty Shop,beauty & wellness,small,T Nagar,115645,40462,119,afternoon (11am-3pm),18-24,False,3.9,13,40.0
+STR0109,Wardrobe Point,fashion,medium,Adyar,610179,224786,173,evening (5pm-9pm),18-24,True,3.7,20,35.0
+STR0110,Murugan Store,grocery,medium,Velachery,741096,54511,196,morning (8am-11am),35-50,False,3.7,8,8.0
+STR0111,Shine Shop,beauty & wellness,large,T Nagar,1237851,476909,918,afternoon (11am-3pm),18-24,True,4.7,33,40.0
+STR0112,Home Store,home & furniture,mall-anchor,Porur,5693111,1372331,2621,weekend afternoons,35-50,True,4.8,2,22.0
+STR0113,Murugan Shop,grocery,medium,Chromepet,580553,49624,251,morning (8am-11am),35-50,False,4.6,22,8.0
+STR0114,Wardrobe World,fashion,medium,Chromepet,319779,108778,208,evening (5pm-9pm),18-24,False,4.2,12,35.0
+STR0115,Power Palace,electronics,small,Porur,36390,3850,85,afternoon (12pm-4pm),25-34,False,3.2,14,12.0
+STR0116,Fit Hub,sports & fitness,small,Velachery,42216,12277,95,morning (7am-10am),25-34,False,3.9,11,28.0
+STR0117,Murugan World,grocery,mall-anchor,Adyar,6941308,550090,2118,morning (8am-11am),35-50,True,4.8,3,8.0
+STR0118,Wardrobe Palace,fashion,small,Tambaram,71341,21511,59,evening (5pm-9pm),18-24,False,3.5,14,35.0
+STR0119,Health Hub,pharmacy,small,Anna Nagar,22592,4619,98,morning (9am-12pm),50+,False,3.9,13,18.0
+STR0120,Trend Gallery,fashion,small,T Nagar,54086,19370,111,evening (5pm-9pm),18-24,True,4.0,9,35.0
+STR0121,Sri Gallery,grocery,medium,T Nagar,459897,39618,186,morning (8am-11am),35-50,True,4.2,17,8.0
+STR0122,Digital Palace,electronics,small,Anna Nagar,141191,15114,30,afternoon (12pm-4pm),25-34,False,3.9,8,12.0
+STR0123,Wisdom Shop,books & stationery,small,OMR,58485,18390,108,afternoon (2pm-6pm),18-24,False,4.3,9,30.0
+STR0124,Saravana Zone,grocery,small,Perambur,39849,3355,70,morning (8am-11am),35-50,False,3.2,4,8.0
+STR0125,Health Store,pharmacy,mall-anchor,T Nagar,3923297,722088,3892,morning (9am-12pm),50+,True,4.9,17,18.0
+STR0126,Wardrobe Hub,fashion,small,Adyar,119929,36471,33,evening (5pm-9pm),18-24,False,4.0,14,35.0
+STR0127,Silver Shop,jewellery,medium,Porur,624024,105281,259,weekend evenings,35-50,False,4.1,13,15.0
+STR0128,Wardrobe Shop,fashion,small,Porur,41011,13084,39,evening (5pm-9pm),18-24,False,4.4,5,35.0
+STR0129,Wardrobe Zone,fashion,medium,Tambaram,390700,129721,160,evening (5pm-9pm),18-24,True,4.1,12,35.0
+STR0130,Life Mart,pharmacy,small,Velachery,95919,16214,97,morning (9am-12pm),50+,False,4.1,6,18.0
+STR0131,Digital Palace,electronics,medium,Velachery,351524,44406,197,afternoon (12pm-4pm),25-34,True,4.5,22,12.0
+STR0132,Trend World,fashion,large,Adyar,1655334,498119,1077,evening (5pm-9pm),18-24,True,4.4,31,35.0
+STR0133,Spice Hub,food & beverage,large,Chromepet,2700352,710784,518,evening (6pm-10pm),18-24,True,4.7,10,25.0
+STR0134,Apollo Centre,pharmacy,medium,T Nagar,743707,149391,286,morning (9am-12pm),50+,True,4.0,3,18.0
+STR0135,Power Palace,electronics,large,Velachery,1334098,154229,664,afternoon (12pm-4pm),25-34,True,4.9,6,12.0
+STR0136,Trend Centre,fashion,medium,Tambaram,160722,57741,370,evening (5pm-9pm),18-24,True,4.7,24,35.0
+STR0137,Style Store,fashion,medium,Tambaram,464177,139680,326,evening (5pm-9pm),18-24,True,4.2,3,35.0
+STR0138,Glow World,beauty & wellness,large,T Nagar,1432931,580009,1062,afternoon (11am-3pm),18-24,True,4.8,28,40.0
+STR0139,Pages Point,books & stationery,medium,OMR,236045,73781,164,afternoon (2pm-6pm),18-24,False,3.6,21,30.0
+STR0140,Glow Zone,beauty & wellness,large,Anna Nagar,1736553,619153,1008,afternoon (11am-3pm),18-24,True,4.2,30,40.0
+STR0141,Wardrobe Palace,fashion,medium,Adyar,673349,244175,389,evening (5pm-9pm),18-24,True,3.7,14,35.0
+STR0142,Sri Shop,grocery,small,Tambaram,110480,9478,67,morning (8am-11am),35-50,False,3.7,4,8.0
+STR0143,Style Mart,fashion,small,Tambaram,96994,38233,95,evening (5pm-9pm),18-24,False,4.2,11,35.0
+STR0144,Trend Centre,fashion,medium,OMR,606814,220387,281,evening (5pm-9pm),18-24,True,4.0,18,35.0
+STR0145,Words Palace,books & stationery,large,T Nagar,2070670,634598,529,afternoon (2pm-6pm),18-24,True,4.6,32,30.0
+STR0146,Wardrobe Shop,fashion,small,Nungambakkam,82800,27528,84,evening (5pm-9pm),18-24,False,3.6,8,35.0
+STR0147,Spice Hub,food & beverage,medium,Tambaram,615278,143947,371,evening (6pm-10pm),18-24,False,3.5,10,25.0
+STR0148,Annapoorna Gallery,grocery,medium,Nungambakkam,484905,43498,374,morning (8am-11am),35-50,False,4.5,22,8.0
+STR0149,Sparkle Zone,jewellery,medium,Nungambakkam,490069,75253,182,weekend evenings,35-50,False,4.5,14,15.0
+STR0150,Space Hub,home & furniture,small,Porur,80259,15694,117,weekend afternoons,35-50,True,3.2,7,22.0
+STR0151,Care Hub,pharmacy,large,Anna Nagar,1828149,314270,436,morning (9am-12pm),50+,True,4.5,30,18.0
+STR0152,Spice Zone,food & beverage,small,Tambaram,142413,35336,112,evening (6pm-10pm),18-24,False,3.1,5,25.0
+STR0153,Trend Shop,fashion,small,Tambaram,134108,49811,33,evening (5pm-9pm),18-24,True,3.5,4,35.0
+STR0154,Digital Point,electronics,mall-anchor,T Nagar,8358976,868856,3970,afternoon (12pm-4pm),25-34,True,4.1,19,12.0
+STR0155,Murugan Point,grocery,medium,Porur,734451,58701,380,morning (8am-11am),35-50,True,4.4,15,8.0
+STR0156,Beauty Shop,beauty & wellness,small,T Nagar,46860,20886,67,afternoon (11am-3pm),18-24,True,3.5,9,40.0
+STR0157,Scholar Gallery,books & stationery,large,T Nagar,2897772,930113,1015,afternoon (2pm-6pm),18-24,True,4.9,19,30.0
+STR0158,Annapoorna Store,grocery,small,T Nagar,41452,3388,116,morning (8am-11am),35-50,False,3.3,9,8.0
+STR0159,Power Centre,electronics,large,Porur,1151681,151579,1069,afternoon (12pm-4pm),25-34,True,4.2,8,12.0
+STR0160,Trend Gallery,fashion,large,T Nagar,1265899,390467,1152,evening (5pm-9pm),18-24,True,4.2,28,35.0
+STR0161,Power Centre,sports & fitness,small,OMR,57890,16860,54,morning (7am-10am),25-34,False,3.6,6,28.0
+STR0162,Curry Zone,food & beverage,small,Porur,127193,31534,37,evening (6pm-10pm),18-24,True,3.4,11,25.0
+STR0163,Trend Palace,fashion,large,Perambur,1540244,523830,574,evening (5pm-9pm),18-24,True,4.1,29,35.0
+STR0164,Taste Zone,food & beverage,medium,Porur,438409,108055,134,evening (6pm-10pm),18-24,False,4.4,24,25.0
+STR0165,Smart Hub,electronics,medium,Adyar,473608,60049,393,afternoon (12pm-4pm),25-34,True,4.4,19,12.0
+STR0166,Saravana Centre,grocery,large,T Nagar,928029,69375,556,morning (8am-11am),35-50,True,4.8,25,8.0
+STR0167,Tech Gallery,electronics,mall-anchor,Adyar,7944171,1073215,2339,afternoon (12pm-4pm),25-34,True,4.6,12,12.0
+STR0168,Style World,fashion,small,Adyar,80922,29226,43,evening (5pm-9pm),18-24,True,3.9,14,35.0
+STR0169,Murugan Shop,grocery,large,Tambaram,1362723,110737,564,morning (8am-11am),35-50,True,4.6,8,8.0
+STR0170,Curry Palace,food & beverage,medium,Anna Nagar,191885,47310,223,evening (6pm-10pm),18-24,False,4.2,19,25.0
+STR0171,Shine Centre,beauty & wellness,medium,Velachery,155195,65882,113,afternoon (11am-3pm),18-24,True,4.5,18,40.0
+STR0172,Saravana Hub,grocery,small,Velachery,69475,5749,30,morning (8am-11am),35-50,False,3.9,14,8.0
+STR0173,Saravana Gallery,grocery,large,Porur,2448813,187711,471,morning (8am-11am),35-50,True,3.9,13,8.0
+STR0174,Digital Gallery,electronics,small,Velachery,65284,8005,99,afternoon (12pm-4pm),25-34,True,3.0,3,12.0
+STR0175,MedPlus Gallery,pharmacy,medium,Anna Nagar,307383,50447,251,morning (9am-12pm),50+,False,4.0,9,18.0
+STR0176,Wardrobe Hub,fashion,small,Anna Nagar,83994,33747,47,evening (5pm-9pm),18-24,False,4.4,14,35.0
+STR0177,Sri Point,grocery,medium,Anna Nagar,426582,33236,126,morning (8am-11am),35-50,False,3.8,19,8.0
+STR0178,Dosa Palace,food & beverage,large,Porur,1442791,355699,860,evening (6pm-10pm),18-24,True,4.1,29,25.0
+STR0179,Murugan Gallery,grocery,small,Chromepet,127384,9146,87,morning (8am-11am),35-50,False,4.2,11,8.0
+STR0180,Power Palace,electronics,medium,Nungambakkam,443536,55666,179,afternoon (12pm-4pm),25-34,True,4.4,20,12.0
+STR0181,Saravana Store,grocery,medium,Tambaram,774784,70253,224,morning (8am-11am),35-50,True,4.4,8,8.0
+STR0182,Curry Hub,food & beverage,small,Velachery,107492,29646,36,evening (6pm-10pm),18-24,False,3.9,13,25.0
+STR0183,Murugan Zone,grocery,medium,OMR,333297,27219,362,morning (8am-11am),35-50,True,4.4,8,8.0
+STR0184,Annapoorna Gallery,grocery,small,Nungambakkam,90777,7597,98,morning (8am-11am),35-50,False,4.1,1,8.0
+STR0185,Taste Gallery,food & beverage,small,OMR,69888,17296,50,evening (6pm-10pm),18-24,True,4.2,11,25.0
+STR0186,Taste Gallery,food & beverage,large,Chromepet,2522891,673268,807,evening (6pm-10pm),18-24,True,3.9,15,25.0
+STR0187,Words Point,books & stationery,small,T Nagar,133207,43184,99,afternoon (2pm-6pm),18-24,True,3.7,14,30.0
+STR0188,Sri Store,grocery,medium,Nungambakkam,710881,64677,237,morning (8am-11am),35-50,True,4.1,10,8.0
+STR0189,Health Mart,pharmacy,large,Velachery,1432382,246899,932,morning (9am-12pm),50+,True,4.6,5,18.0
+STR0190,Spice Point,food & beverage,small,T Nagar,46326,10679,109,evening (6pm-10pm),18-24,False,4.1,12,25.0
+STR0191,Raja Point,grocery,small,Adyar,106166,9561,76,morning (8am-11am),35-50,True,4.3,8,8.0
+STR0192,Power Shop,electronics,medium,Porur,744280,89876,323,afternoon (12pm-4pm),25-34,True,3.8,12,12.0
+STR0193,Power Palace,sports & fitness,small,T Nagar,103407,29707,106,morning (7am-10am),25-34,False,3.5,1,28.0
+STR0194,Pages Shop,books & stationery,medium,Velachery,414669,129361,265,afternoon (2pm-6pm),18-24,True,3.9,23,30.0
+STR0195,Life Store,pharmacy,small,Tambaram,37762,7524,24,morning (9am-12pm),50+,False,3.5,3,18.0
+STR0196,Annapoorna Hub,grocery,medium,Anna Nagar,484721,39796,311,morning (8am-11am),35-50,False,4.3,17,8.0
+STR0197,Beauty Zone,beauty & wellness,small,Tambaram,125612,54523,77,afternoon (11am-3pm),18-24,False,3.7,7,40.0
+STR0198,Ethnic Hub,fashion,small,Chromepet,29843,10848,90,evening (5pm-9pm),18-24,False,4.1,8,35.0
+STR0199,Glow Store,beauty & wellness,medium,Nungambakkam,302505,112727,357,afternoon (11am-3pm),18-24,True,4.4,6,40.0
+STR0200,Fashion World,fashion,large,OMR,2837411,976981,766,evening (5pm-9pm),18-24,True,3.9,13,35.0
